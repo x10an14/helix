@@ -23,7 +23,7 @@ repo = "helix-editor/helix"
 #
 # remote-branch = "master @ fccc58957eece10d0818dfa000bf5123e26ee32f"
 
-remote-branch = "master @ 9868e3ddfab3ae6caca007f424745035ed5111e3"
+remote-branch = "master @ 079a789e8cb08ead67f19e1971a1b7438b37354b"
 
 # Branch which patchy will use to do all of its work on
 #
